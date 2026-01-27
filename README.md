@@ -7,4 +7,5 @@ Here I would like to mention the environment details
 4. nest version 11.0.10 (nest --version)
 
 Lesson 01 : basic nestjs
+
 Lesson 02 : controller fundamentals
