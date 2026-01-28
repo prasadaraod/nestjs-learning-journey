@@ -13,3 +13,5 @@ Lesson 02 : controller fundamentals
 Lesson 03 : services Introduction
 
 Lesson 04 : DTO and Validation
+
+Lesson 05 : TypeOrm and MySQL integration
